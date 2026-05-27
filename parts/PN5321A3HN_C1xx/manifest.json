@@ -1,0 +1,17 @@
+{
+  "id": "RF_NFC/PN5321A3HN_C1xx:PN5321A3HN_C1xx",
+  "name": "PN5321A3HN_C1xx",
+  "library": "RF_NFC",
+  "file": "RF_NFC.kicad_symdir/PN5321A3HN_C1xx.kicad_sym",
+  "description": "Near Field Communication (NFC) controller, QFN-40",
+  "datasheet": "https://www.nxp.com/docs/en/nxp/data-sheets/PN532_C1.pdf",
+  "keywords": "NFC",
+  "footprint": "Package_DFN_QFN:HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-nfc@master/parts/PN5321A3HN_C1xx/",
+  "part_path": "parts/PN5321A3HN_C1xx",
+  "symbol_file": "parts/PN5321A3HN_C1xx/PN5321A3HN_C1xx.kicad_sym",
+  "source_library": "RF_NFC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:29.098Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "RF_NFC/ST25DV04K-IER8C3:ST25DV04K-IER8C3",
+  "name": "ST25DV04K-IER8C3",
+  "library": "RF_NFC",
+  "file": "RF_NFC.kicad_symdir/ST25DV04K-IER8C3.kicad_sym",
+  "description": "Dynamic NFC/RFID tag IC with 4-Kbit EEPROM, UFDFPN-8",
+  "datasheet": "https://www.st.com/resource/en/datasheet/st25dv04k.pdf",
+  "keywords": "NFC Tag",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-nfc@master/parts/ST25DV04K-IER8C3/",
+  "part_path": "parts/ST25DV04K-IER8C3",
+  "symbol_file": "parts/ST25DV04K-IER8C3/ST25DV04K-IER8C3.kicad_sym",
+  "source_library": "RF_NFC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:29.100Z"
+}

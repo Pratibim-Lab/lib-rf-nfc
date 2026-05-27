@@ -1,0 +1,17 @@
+{
+  "id": "RF_NFC/ST25R3911B-AQF:ST25R3911B-AQF",
+  "name": "ST25R3911B-AQF",
+  "library": "RF_NFC",
+  "file": "RF_NFC.kicad_symdir/ST25R3911B-AQF.kicad_sym",
+  "description": "High performance HR reader/NFC initiator with 1.4W supporting VHBR and AAT, QFN32",
+  "datasheet": "https://www.st.com/resource/en/datasheet/st25r3911b.pdf",
+  "keywords": "NFC",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm_ThermalVias",
+  "extends": "ST25R3911B-AQW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-nfc@master/parts/ST25R3911B-AQF/",
+  "part_path": "parts/ST25R3911B-AQF",
+  "symbol_file": "parts/ST25R3911B-AQF/ST25R3911B-AQF.kicad_sym",
+  "source_library": "RF_NFC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:29.109Z"
+}
